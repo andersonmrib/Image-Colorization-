@@ -43,8 +43,7 @@ Due to GitHub's file size limitations, the pre-trained model is not included in 
 
 1. Download the model file from the link below:
    * [Download colorization_release_v2.caffemodel (123 MB)](https://www.dropbox.com/s/dx0qvhhp5hbcx7z/colorization_release_v2.caffemodel?dl=1)
-2. Create a folder named `model` in the root directory of the project.
-3. Move the downloaded file into that folder.
+2. Move the downloaded file into 'Model' folder.
 
 The final directory structure must look exactly like this:
 ```text
