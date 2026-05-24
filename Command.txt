@@ -1,0 +1,5 @@
+Run this command inside ColorX after opening CMD:
+
+python colorize.py --image samples/X.jpg
+
+where X is the name of the image file.
