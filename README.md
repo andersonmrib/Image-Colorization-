@@ -24,21 +24,12 @@ git clone <your-repository-url>
 cd ColorX
 ```
 
-### 2: Configure Virtual Environment
-```bash
-python -m venv venv
-# Linux/Mac
-source venv/bin/activate  
-# Windows
-venv\Scripts\activate  
-```
-
-### 3: Install Dependencies
+### 2: Install Dependencies
 ```bash
 pip install numpy opencv-python
 ```
 
-### 4: Set Up Model Files
+### 3: Set Up Model Files
 Due to GitHub's file size limitations, the pre-trained model is not included in this repository and must be downloaded manually.
 
 1. Download the model file from the link below:
